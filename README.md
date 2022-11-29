@@ -1,5 +1,5 @@
  
- ▪️ Hi ! I'm Camille Bouchacot 👋
+ ▪️ Hi ! I'm Camille Bouchacot and i'm french 👋
 
  ▪️  ✒️📚  I’m a author, poetess , and novelist , Soon my first two novels coming out !
  
