@@ -1,7 +1,7 @@
  
  ▪️ Hi ! I'm Camille Bouchacot and i'm french 👋
 
- ▪️  ✒️📚  I’m a author, poetess , and novelist , Soon my first two novels coming out in march !
+ ▪️  ✒️📚  I’m a author, poetess , and novelist , Soon my first two novels coming out in march ! And my 3rd and the 4th book in May !
  
  ▪️  ⌨️💻  I am also a web and web application developer|| The programming languages I use are : Html, Css, Javascript, and React.js
  
@@ -14,7 +14,7 @@ FRENCH VERSION :
 
 ▪️ Salut ! Je suis Camille Bouchacot et je suis française 👋
 
-▪️  ✒️📚  Je suis auteur, poétesse, et romancière, Bientôt mes deux premiers romans sortent en mars !
+▪️  ✒️📚  Je suis auteur, poétesse, et romancière, Bientôt mes deux premiers romans sortent en mars ! Et mon 3eme et 4eme ouvrage en mai !
  
 ▪️  ⌨️💻  Je suis aussi développeur web et application web|| Les langages de programmation que j'utilise sont : Html, Css, Javascript et React.js
  
