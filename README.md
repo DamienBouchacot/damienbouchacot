@@ -12,9 +12,9 @@
 
 FRENCH VERSION : 
 
-▪️ Salut ! Je suis Camille Bouchacot et je suis française 👋
+▪️ Salut ! Je suis Camille Bouchacot et je suis français 👋
 
-▪️  ✒️📚  Je suis auteur, poétesse, et romancière, Bientôt mes deux premiers romans sortent en mars ! Et mon 3eme ouvrage en mai !
+▪️  ✒️📚  Je suis auteur, et romancier, Bientôt mes deux premiers romans sortent en mars ! Et mon 3eme ouvrage en mai !
  
 ▪️  ⌨️💻  Je suis aussi développeur web et application web|| Les langages de programmation que j'utilise sont : Html, Css, Javascript et React.js
  
