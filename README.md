@@ -1,7 +1,7 @@
  
 ▪️Hi! I am Damien Bouchacot and I am French 👋
 
-▪️  ✒️📚  I am an author, poet and novelist: recognized & publicized. || (Google sheet, Fnac, Amazon, Ouest-France, Japan also, and in many other bookstores, stores and author media) || (1 story, 2 collections of poems, and 1 Comic novel (superhero)).
+▪️  ✒️📚  I am an author, poet and novelist: recognized & publicized. || (Google sheet, Fnac, Amazon, Ouest-France, Japan also, and in many other bookstores, stores and author media) || (1 story, 2 collections of poems (under "camille"), and 1 Comic novel (superhero)).
      📚  The 5th in writing.
  
 ▪️  ⌨️💻  I am also a web and web application developer following my BTS in web developer obtained. || The programming languages ​​and graphics software I use are: Html, Css, Javascript, React.js, Photoshop, Indesign and Illustrator.
